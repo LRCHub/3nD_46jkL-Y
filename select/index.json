@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "せもたれ",
+  "base_artist": "ニューリー",
+  "createdAt": "2026-02-25T01:45:34.665046Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "せもたれ",
+      "artist": "ニューリー, kojikoji, Akusa",
+      "has_synced": false,
+      "path": "select/pl_01_せもたれ_ニューリー,_kojikoji,_Akusa.txt"
+    }
+  ]
+}
